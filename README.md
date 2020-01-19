@@ -1,6 +1,6 @@
 # prerequisites
 
-<img src="PicsArt_01-19-06.51.43.jpg">
+<img src="PicsArt_01-19-07.21.00.jpg">
 
 `$ pip2 install pyfiglet`
 
