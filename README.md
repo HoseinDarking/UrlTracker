@@ -9,3 +9,5 @@
 `$ pip2 install colorama`
 # run
 `$ git clone https://github.com/HoseinDarking/Urltracker`
+`$ cd Urltracker`
+`$ python2 urltracker.py
