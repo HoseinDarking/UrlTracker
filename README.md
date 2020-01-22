@@ -7,6 +7,9 @@
 `$ pip2 install bs4`
 
 `$ pip2 install colorama`
+
+`$ pkg install python2
+
 # run
 `$ git clone https://github.com/HoseinDarking/Urltracker`
 
