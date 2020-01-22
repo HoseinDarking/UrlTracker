@@ -2,6 +2,8 @@
 
 <img src="PicsArt_01-19-07.21.00.jpg">
 
+`$ pkg install git`
+
 `$ pip2 install pyfiglet`
 
 `$ pip2 install bs4`
